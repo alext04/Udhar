@@ -48,7 +48,7 @@ In a dynamic economic landscape, maintaining precise tabs on financial obligatio
 3. Install dependancies
 
 ```bash
-flutter pub ge
+flutter pub get
 ```
 
 4. Run the App
